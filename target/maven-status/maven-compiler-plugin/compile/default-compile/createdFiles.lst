@@ -1,0 +1,12 @@
+com\flowey258\harvestBoost\managers\BoostManager.class
+com\flowey258\harvestBoost\listeners\CropGrowthListener$1.class
+com\flowey258\harvestBoost\listeners\PlayerFarmingListener.class
+com\flowey258\harvestBoost\config\ConfigManager.class
+com\flowey258\harvestBoost\tasks\BoostUpdateTask.class
+com\flowey258\harvestBoost\commands\HarvestBoostCommand.class
+com\flowey258\harvestBoost\listeners\CropGrowthListener.class
+com\flowey258\harvestBoost\managers\BoostManager$BoostData.class
+com\flowey258\harvestBoost\managers\PlayerTracker$PlayerPresenceData.class
+com\flowey258\harvestBoost\managers\EffectsManager.class
+com\flowey258\harvestBoost\HarvestBoost.class
+com\flowey258\harvestBoost\managers\PlayerTracker.class

@@ -1,0 +1,25 @@
+name: HarvestBoost
+version: '${project.version}'
+main: com.flowey258.harvestBoost.HarvestBoost
+api-version: '1.21'
+author: Flow258
+description: Cooperative farming plugin that boosts crop growth when players farm together
+website: https://github.com/Flow258/harvestboost
+
+commands:
+  harvestboost:
+    description: Main plugin command
+    usage: /harvestboost <reload|status>
+    aliases: [hb, harvest]
+    permission: harvestboost.use
+
+permissions:
+  harvestboost.use:
+    description: Allows players to contribute to and benefit from harvest boosts
+    default: true
+  harvestboost.admin:
+    description: Allows access to admin commands
+    default: op
+  harvestboost.reload:
+    description: Allows reloading the plugin configuration
+    default: op
